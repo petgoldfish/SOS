@@ -58,6 +58,7 @@
                 android:onClick="retry"
                 android:id="@+id/retryButton"/>
 
+
         </RelativeLayout>
     </LinearLayout>
 
